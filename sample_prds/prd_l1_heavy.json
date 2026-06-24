@@ -1,0 +1,6 @@
+{
+    "name": "Market Share Dashboard",
+    "kpis": ["MARKET_SHARE_VALUE_PCT", "SALES_VELOCITY", "TOTAL_REVENUE"],
+    "dimensions": ["BRAND_NAME", "RETAILER_NAME", "CATEGORY"],
+    "filters": ["PROMO_SPEND", "PROFIT_MARGIN", "CUSTOMER_LIFETIME_VALUE"]
+}

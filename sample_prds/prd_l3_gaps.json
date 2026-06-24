@@ -1,0 +1,6 @@
+{
+    "name": "Promotions Effectiveness Report",
+    "kpis": ["BASE_PRICE", "DISCOUNT_DEPTH", "PROMO_MECHANIC"],
+    "dimensions": ["RETAILER_BANNER", "REGION", "STORE_COUNT"],
+    "filters": ["PROMO_TYPE", "DISPLAY_FLAG", "FEATURE_FLAG"]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Strategic Growth Dashboard",
+    "kpis": ["EBITDA_MARGIN", "RETURN_ON_AD_SPEND", "CUSTOMER_ACQUISITION_COST"],
+    "dimensions": ["MEDIA_CHANNEL", "SHOPPER_SEGMENT", "PRICE_TIER"],
+    "filters": ["NPS_SCORE", "BRAND_EQUITY_INDEX", "SHELF_SHARE_PCT"]
+}
